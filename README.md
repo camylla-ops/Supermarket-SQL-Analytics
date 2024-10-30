@@ -67,3 +67,13 @@ Para uma visualização mais rica e interativa dos dados, planeja-se criar um da
 
 ### 8. Conclusão
 Este projeto demonstrou a importância de uma análise detalhada dos dados de vendas para identificar padrões de comportamento do consumidor. As informações obtidas não apenas ajudam a entender as preferências dos clientes, mas também oferecem uma base sólida para a implementação de estratégias de marketing eficazes. O uso de SQL forneceu uma visão inicial, enquanto o futuro uso do Power BI promete expandir a análise e a visualização dos dados, proporcionando um suporte ainda mais robusto para decisões de negócios.
+
+## Tecnologias Usadas
+- **SQL**: Para manipulação e consulta dos dados.
+- **PostgreSQL**: O banco de dados utilizado para armazenar e gerenciar os dados.
+- **DBeaver**: Ferramenta utilizada para a gestão e visualização dos dados no PostgreSQL.
+## Tecnologias Usadas
+- **SQL**: Para manipulação e consulta dos dados.
+- **PostgreSQL**: O banco de dados utilizado para armazenar e gerenciar os dados.
+- **DBeaver**: Ferramenta utilizada para a gestão e visualização dos dados no PostgreSQL.
+
