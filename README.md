@@ -1,6 +1,8 @@
 # Análise de Vendas de Supermercado
-
+<div align="center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge" alt="SQL "> <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge" alt="Data Analysis"> </div>
 ## Sobre o Projeto
+
 
 Este projeto analisa dados de vendas de uma rede de supermercados em Myanmar, utilizando o conjunto de dados "Supermarket Sales", disponível publicamente na plataforma Kaggle. O objetivo principal é identificar padrões de compra, preferências dos clientes, métodos de pagamento mais comuns e outros insights que possam contribuir para estratégias de vendas e marketing. É importante ressaltar que o conjunto de dados possui muito mais potencial de exploração, e as análises realizadas com SQL representam apenas uma visão inicial dos dados. 
 
