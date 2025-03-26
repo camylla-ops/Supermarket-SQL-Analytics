@@ -1,6 +1,7 @@
 # Análise de Vendas de Supermercado
 <div align="center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
   <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge" alt="SQL "> <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge" alt="Data Analysis"> </div>
+  
 ## Sobre o Projeto
 
 
